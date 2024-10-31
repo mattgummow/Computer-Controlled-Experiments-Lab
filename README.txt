@@ -1,0 +1,3 @@
+- The outline script with relevant functions and commented program is in the SCRIPT notebook
+- Graphs plotted are shared amongst GRAPHS_1 and GRAPHS_2 notebook 
+- GRAPHS_1 has the pre and post optimisation work, GRAPHS_2 has the shockley fit and resistor work
